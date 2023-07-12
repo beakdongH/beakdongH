@@ -4,7 +4,7 @@
 <br>
 <b><h2>"백동흔"</h2></b>
 <a href = "https://beakdong.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
-<a href = "https://www.notion.so/3351edaa8b02481ab35e3129cdfda35c?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<a href = "[https://www.notion.so/3351edaa8b02481ab35e3129cdfda35c?pvs=4](https://heavy-maraca-3ad.notion.site/3351edaa8b02481ab35e3129cdfda35c)"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <a href = "https://github.com/beakdongH"><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <a href = "https://www.instagram.com/orn.lbh/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 <hr>
