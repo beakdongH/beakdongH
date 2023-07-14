@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=03C75A&height=110&section=header&text=!WELCOME!&fontSize=50)
 <div align="center">
 <h1><b>🍀평안하세요? 백동흔입니다!</b></h1>
 <br>
