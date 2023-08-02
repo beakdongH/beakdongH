@@ -20,5 +20,4 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=03C75A&height=100&section=footer)
-
 </div>
