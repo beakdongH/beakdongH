@@ -1,6 +1,6 @@
 <div align="center">
 <h1><b>🍀평안하세요? 백동흔입니다!</b></h1>
-<h4>BSSM 3기에 재학중입니다</h4>
+<h3>BSSM 3기에 재학중입니다</h3>
 <br>
 <b><h2>"백동흔"</h2></b>
 <a href = "https://beakdong.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
