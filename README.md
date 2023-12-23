@@ -9,17 +9,12 @@
 <a href = "https://www.instagram.com/orn.lbh/"><img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor=white"/>
 <hr>
 <b><h2>"내가 다룰 수 있는 것⚙️"</h2></b>
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <hr>
 <b><h2>"내가 배우고 있는 것📒"</h2></b>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=03C75A&height=100&section=footer)
 </div>
