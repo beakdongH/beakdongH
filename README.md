@@ -5,4 +5,4 @@
 팀원들과 조화롭게 소통하고 수평적인 협업방식을 추구합니다.
 
 
-### <b>[Portfolio](https://heavy-maraca-3ad.notion.site/846ed13ea11b41249471e2a412518465?pvs=74) | [Blog](https://velog.io/@beakdong/posts) | [Instagram](https://www.instagram.com/orn.lbh/)</b> 
+### <b>[Portfolio](https://heavy-maraca-3ad.notion.site/13aecb3d8117800187cecfd416965251?pvs=74) | [Blog](https://velog.io/@beakdong/posts) | [Instagram](https://www.instagram.com/orn.lbh/)</b> 
